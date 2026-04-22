@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mayur S Karkera</h1>
-<h3 align="center">A passionate Software Engineer & AI Enthusiast from Karnataka, India 🇮🇳</h3>
+<h3 align="center">A passionate Software Engineer specializing in developing secure and scalable backend services using Spring Boot & Java.</h3>
 <p align="center">
-  • <a href="mailto:your-email@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> •
-  <a href="https://github.com/MayurSKarkera">GitHub</a> •
+  • <a href="mailto:your-mayurskarkera2004@gmail.com">Email</a> •
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/mayur-s-karkera-8aa325264/)">LinkedIn</a> •
+  <a href="[https://github.com/MayurSKarkera](https://github.com/MayurSKarkera)">GitHub</a> •
   <a href="#">X</a>
 </p>
 
@@ -16,9 +16,9 @@
 ### 🧠 About Me
 
 🎓 B.E student in **Computer Science & Engineering**<br>
-💻 Skilled in **Java, Spring Boot, Microservices, and Web Development**<br>
+💻 Skilled in **Java, Spring Boot, Microservices**<br>
 🔐 Working on **OAuth2, Security, and API Development**<br>
-🤖 Interested in **Machine Learning & AI-based systems**<br>
+🤖 Interested in **Java & -based systems**<br>
 📍 Based in **Karnataka, India**<br>
 
 ---
@@ -42,7 +42,6 @@
 &nbsp;<img src="https://skillicons.dev/icons?i=postgresql" width="45"/>
 &nbsp;<img src="https://skillicons.dev/icons?i=git" width="45"/>
 &nbsp;<img src="https://skillicons.dev/icons?i=github" width="45"/>
-&nbsp;<img src="https://skillicons.dev/icons?i=linux" width="45"/>
 &nbsp;<img src="https://skillicons.dev/icons?i=vscode" width="45"/>
 &nbsp;<img src="https://skillicons.dev/icons?i=postman" width="45"/>
 &nbsp;<img src="https://skillicons.dev/icons?i=spring" width="45"/>
@@ -70,7 +69,7 @@
 <h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/mayur-s-karkera-8aa325264/)">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
   &nbsp;&nbsp;

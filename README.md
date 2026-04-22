@@ -36,7 +36,7 @@ A passionate Software Engineer specializing in building secure, scalable backend
 💻 Strong in **Java, Spring Boot, Microservices Architecture**  
 🔐 Focused on **OAuth2, API Security, and Encryption (AES)**  
 🤖 Exploring **AI + Backend Integration**  
-📍 Based in **Karnataka, India**  
+📍 Based in **Mangaluru, Karnataka**  
 
 ---
 
@@ -48,7 +48,7 @@ A passionate Software Engineer specializing in building secure, scalable backend
 - Implemented **OAuth2 authentication & authorization flows**  
 - Developed and tested **REST APIs using Postman**  
 - Applied **AES encryption/decryption** for secure data handling  
-- Debugged and handled **real-world API errors (401, security flows)**  
+- Debugged and handled **real-world API errors**  
 
 ---
 

@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Software Engineer specializing in developing secure and scalable backend services using Spring Boot & Java.</h3>
 <p align="center">
   • <a href="mailto:your-mayurskarkera2004@gmail.com">Email</a> •
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/mayur-s-karkera-8aa325264/)">LinkedIn</a> •
-  <a href="[https://github.com/MayurSKarkera](https://github.com/MayurSKarkera)">GitHub</a> •
+  <a href="https://www.linkedin.com/in/mayur-s-karkera-8aa325264/">LinkedIn</a> •
+  <a href="https://github.com/MayurSKarkera">GitHub</a> •
   <a href="#">X</a>
 </p>
 

@@ -1,72 +1,80 @@
-<h1 align="center">Hi 👋, I'm  Mayur S Karkera</h1>
-<h3 align="center">A passionate Java & Spring Boot Developer from Mangalore, India 🇮🇳</h3>
-
-
+<h1 align="center">Hi 👋, I'm Mayur S Karkera</h1>
+<h3 align="center">A passionate Software Engineer & AI Enthusiast from Karnataka, India 🇮🇳</h3>
 <p align="center">
-  • <a href="mailto:abhishekshenoy2004@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/abhishek-shenoy-b28aab3bb/">LinkedIn</a> 
+  • <a href="mailto:your-email@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> •
+  <a href="https://github.com/MayurSKarkera">GitHub</a> •
+  <a href="#">X</a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4483BE&center=true&vCenter=true&width=600&lines=Spring+Boot+Java+Developer;Building+Scalable+Backend+Applications;Microservices+%7C+REST+APIs+%7C+Security;Always+Learning+New+Technologies!" alt="Typing SVG" /> 
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4483BE&center=true&vCenter=true&width=700&lines=Software+Engineering+Intern;Spring+Boot+%7C+Microservices+%7C+OAuth2;AI+%7C+Machine+Learning+%7C+Security;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
-
-<div align="center">
 
 ---
 
 ### 🧠 About Me
 
-🎓 B.E student at **St Joseph Engineering College(Mangalore)** (CGPA: 8.74/10)<br>
-💻 Skilled in **Java, Spring boot, MYSQL, and PL/SQL**<br>
-🚀 Passionate about **building secured sofware using Java based Technologies**<br>
-📍 Based in **Mangalore, Karnataka**<br>
+🎓 B.E student in **Computer Science & Engineering**<br>
+💻 Skilled in **Java, Spring Boot, Microservices, and Web Development**<br>
+🔐 Working on **OAuth2, Security, and API Development**<br>
+🤖 Interested in **Machine Learning & AI-based systems**<br>
+📍 Based in **Karnataka, India**<br>
 
 ---
 
 ### 💼 Experience
 
-**Trainee Software Engineer Intern — LCode Technologies** *(Jan 2026 – Jun 2026, Mangaluru)*
-- Built a real-time **Integration of Fraud Risk Management System** for digital banking channels
-- Trained on **Integrating a Fraud Risk Management (FRM) system)** with a core banking application to enable real-time fraud detection and risk assessment.
-- FRM-enabled Add Beneficiary service with real-time fraud checks → ALLOW / REVIEW / BLOCK using secure token-based APIs
-
-**Java Full stack Intern — Agile Minds** *(Jun 2025 – Jul 2025, Mangaluru)*
-- Built a backend **Banking Application** handling core operations like account management and transactions.
-- Developed end-to-end **CRUD modules** using JSP, Servlets, and Core Java.
-- Designed responsive UI with **Bootstrap** and integrated with backend for seamless data flow.
+**Software Engineering Intern**
+- Working on **Spring Boot Microservices Architecture**
+- Implementing **OAuth2 authentication & authorization**
+- Building and testing **secure REST APIs using Postman**
+- Handling **encryption (AES), API security, and backend logic**
 
 ---
 
 ### 🛠️ Languages & Tools
 
-<p><img src="https://skillicons.dev/icons?i=java" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=spring" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=python" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=cpp" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=c" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=mysql" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=postgresql" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=mongodb" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=git" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=github" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=linux" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=vscode" width="45"/>&nbsp;<img src="https://skillicons.dev/icons?i=postman" width="45"/>&nbsp;<img src="https://img.icons8.com/color/45/microsoft-excel-2019--v1.png" width="45"/>&nbsp;<img src="https://cdn.simpleicons.org/eclipseide/2C2255" width="45"/></p>
+<p>
+<img src="https://skillicons.dev/icons?i=java" width="45"/>
+&nbsp;<img src="https://skillicons.dev/icons?i=python" width="45"/>
+&nbsp;<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
+&nbsp;<img src="https://skillicons.dev/icons?i=postgresql" width="45"/>
+&nbsp;<img src="https://skillicons.dev/icons?i=git" width="45"/>
+&nbsp;<img src="https://skillicons.dev/icons?i=github" width="45"/>
+&nbsp;<img src="https://skillicons.dev/icons?i=linux" width="45"/>
+&nbsp;<img src="https://skillicons.dev/icons?i=vscode" width="45"/>
+&nbsp;<img src="https://skillicons.dev/icons?i=postman" width="45"/>
+&nbsp;<img src="https://skillicons.dev/icons?i=spring" width="45"/>
+</p>
 
 ---
 
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MayurSKarkera&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+<div align="center">
 
 ### ✨ Visitors Count ✨
 
-<img src="https://komarev.com/ghpvc/?username=abhishekshenoy-123&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" width="250" />
-</br>
-&nbsp;
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=abhishekshenoy-123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  &nbsp;
-  &nbsp;
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekshenoy-123&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=MayurSKarkera&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" width="250" />
 
 </div>
 
 ---
 
-### 🌐 Connect with Me
+<h3 align="center">🌐 Connect with Me</h3>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/abhishek-shenoy-b28aab3bb">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-</a>
-
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/MayurSKarkera">
+    <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  </a>
 </p>

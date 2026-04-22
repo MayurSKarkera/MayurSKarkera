@@ -44,7 +44,7 @@ A Software Engineer focused on building secure, scalable backend systems using S
 
 ### 💼 Experience
 
-**Software Engineering Intern**
+**Software Engineer Intern**
 
 - Developed **secure REST APIs** using Spring Boot and Java  
 - Implemented **OAuth2-based authentication & authorization**  

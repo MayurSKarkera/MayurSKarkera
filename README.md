@@ -12,20 +12,33 @@ A passionate Software Engineer specializing in building secure, scalable backend
 
 ---
 
-### 🚀 Tech Snapshot
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-SpringBoot-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Architecture-Microservices-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Security-OAuth2-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/API-REST-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Encryption-AES-purple?style=for-the-badge"/>
-</p>
-
 ---
 
+### ⚡ Tech DNA
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4483BE&center=true&vCenter=true&width=750&lines=Software+Engineering+Intern;Building+Secure+Backend+Systems;Spring+Boot+%7C+Microservices+%7C+OAuth2;API+Security+%7C+Encryption+%7C+REST+APIs;Always+Learning+%26+Building" />
+
+🔹 Crafting **secure backend ecosystems** with Spring Boot  
+🔹 Designing **resilient microservices architectures**  
+🔹 Engineering **token-based security (OAuth2, JWT)**  
+🔹 Implementing **end-to-end encryption (AES + RSA)**  
+🔹 Building **scalable REST APIs for real-world systems**  
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Java-black?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/Framework-SpringBoot-6DB33F?style=for-the-badge&logo=springboot"/>
+  <img src="https://img.shields.io/badge/Architecture-Microservices-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Security-OAuth2%20%7C%20JWT-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cryptography-AES%20%2B%20RSA-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API-RESTful-orange?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Secure%20Systems-blueviolet?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Mindset-Problem%20Solver-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Goal-Build%20Impactful%20Tech-important?style=flat-square"/>
 </p>
 
 ---

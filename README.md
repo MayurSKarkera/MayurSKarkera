@@ -75,7 +75,7 @@ A Software Engineer focused on building secure, scalable backend systems using S
 ### 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,mysql,postgresql,git,github,vscode,postman,spring,linux" />
+<img src="https://skillicons.dev/icons?i=java,python,postgresql,git,github,vscode,postman,spring" />
 </p>
 
 ---

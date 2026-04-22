@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mayur S Karkera</h1>
 <h3 align="center">
-A passionate Software Engineer specializing in building secure, scalable backend systems using Spring Boot & Java 🚀
+A Software Engineer focused on building secure, scalable backend systems using Spring Boot, Java, and PL/SQL 🚀
 </h3>
 
 <p align="center">
   <a href="mailto:mayurskarkera2004@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/mayur-s-karkera-8aa325264/">LinkedIn</a> •
-  <a href="https://github.com/MayurSKarkera">GitHub</a> •
-  <a href="#">X</a>
+  <a href="https://github.com/MayurSKarkera">GitHub</a>
 </p>
 
 ---
@@ -16,16 +15,19 @@ A passionate Software Engineer specializing in building secure, scalable backend
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-SpringBoot-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Architecture-Microservices-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Language-Java-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-PLSQL-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-SQL-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Architecture-Microservices-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Security-OAuth2-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/API-REST-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Encryption-AES-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API-REST-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Encryption-AES-grey?style=for-the-badge"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4483BE&center=true&vCenter=true&width=750&lines=Software+Engineering+Intern;Building+Secure+Backend+Systems;Spring+Boot+%7C+Microservices+%7C+OAuth2;API+Security+%7C+Encryption+%7C+REST+APIs;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4483BE&center=true&vCenter=true&width=750&lines=Software+Engineering+Intern;Backend+Development+%7C+API+Design;Spring+Boot+%7C+Microservices+%7C+OAuth2;PL%2FSQL+%7C+Database+Design+%7C+Optimization;Always+Learning+%26+Building" />
 </p>
 
 ---
@@ -33,10 +35,10 @@ A passionate Software Engineer specializing in building secure, scalable backend
 ### 🧠 About Me
 
 🎓 B.E in **Computer Science & Engineering**  
-💻 Strong in **Java, Spring Boot, Microservices Architecture**  
-🔐 Focused on **OAuth2, API Security, and Encryption (AES)**  
-🤖 Exploring **AI + Backend Integration**  
-📍 Based in **Mangaluru, Karnataka**  
+💻 Backend-focused with **Java, Spring Boot, and Microservices**  
+🗄️ Strong in **PL/SQL, SQL, and Database Design**  
+🔐 Experienced in **OAuth2, API Security, and AES Encryption**  
+📍 Based in **Karnataka, India**  
 
 ---
 
@@ -44,27 +46,36 @@ A passionate Software Engineer specializing in building secure, scalable backend
 
 **Software Engineering Intern**
 
-- Built **secure microservices using Spring Boot**  
-- Implemented **OAuth2 authentication & authorization flows**  
-- Worked on **PL/SQL procedures, queries, and backend data handling**  
-- Designed and modified **database schemas**  
-- Debugged and handled **real-world API errors**  
+- Developed **secure REST APIs** using Spring Boot and Java  
+- Implemented **OAuth2-based authentication & authorization**  
+- Designed and optimized **PL/SQL procedures and SQL queries**  
+- Built and modified **database schemas with constraints & validations**  
+- Debugged and resolved **API and database issues during UAT cycles**  
+- Handled **real-world errors (401 Unauthorized, token validation, data mismatches)**  
 
 ---
 
 ### 🚀 Featured Projects
 
 🔹 **OAuth2 Microservices System**  
-- Client-Server architecture with secure authentication  
-- Token-based authorization & API protection  
+- Secure client-server architecture with token-based authentication  
+  - Implemented OAuth2 authorization and protected REST APIs  
+- 🔗 GitHub: https://github.com/MayurSKarkera/Oauth2
+    
+### 🔐 API Demo
+### 🔑 Step 1: Generate Access Token
+<img src="https://raw.githubusercontent.com/MayurSKarkera/Oauth2/main/screenshots/1-token-generation.png" width="700"/>
 
-🔹 **Spring Boot CRUD API System**  
-- Layered architecture (Controller, Service, Repository)  
-- Integrated database with validation & constraints  
+### 📡 Step 2: Access Protected API
+<img src="https://raw.githubusercontent.com/MayurSKarkera/Oauth2/main/screenshots/2-api-response.png" width="700"/>
+
+🔹 **CRUD API System**  
+- Developed layered backend (Controller, Service, Repository)  
+- Integrated database with validations and constraints  
 
 🔹 **AI Stroke Prediction Project**  
-- Combining **MRI, EHR & Genetic Data**  
-- Focus on predictive healthcare systems  
+- Integrated **MRI, EHR, and Genetic Data**  
+- Focused on predictive healthcare using AI  
 
 ---
 
@@ -82,14 +93,6 @@ A passionate Software Engineer specializing in building secure, scalable backend
   <img src="https://streak-stats.demolab.com?user=MayurSKarkera&theme=tokyonight&hide_border=true" height="180"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=MayurSKarkera&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MayurSKarkera&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---

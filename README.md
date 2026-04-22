@@ -68,7 +68,8 @@ A Software Engineer focused on building secure, scalable backend systems using S
 
 🔹 **AI Stroke Prediction Project**  
 - Integrated **MRI, EHR, and Genetic Data**  
-- Focused on predictive healthcare using AI  
+- Focused on predictive healthcare using AI
+- 🔗 GitHub: https://github.com/MayurSKarkera/AI_STROKE_PREDICTION
 
 ---
 

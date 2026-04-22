@@ -62,15 +62,14 @@ A Software Engineer focused on building secure, scalable backend systems using S
   - Implemented OAuth2 authorization and protected REST APIs  
 - 🔗 GitHub: https://github.com/MayurSKarkera/Oauth2
     
-🔹 **CRUD API System**  
-- Developed layered backend (Controller, Service, Repository)  
-- Integrated database with validations and constraints  
-
 🔹 **AI Stroke Prediction Project**  
 - Integrated **MRI, EHR, and Genetic Data**  
 - Focused on predictive healthcare using AI
 - 🔗 GitHub: https://github.com/MayurSKarkera/AI_STROKE_PREDICTION
 
+🔹 **CRUD API System**  
+- Developed layered backend (Controller, Service, Repository)  
+- Integrated database with validations and constraints
 ---
 
 ### 🛠️ Languages & Tools

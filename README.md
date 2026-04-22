@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4483BE&center=true&vCenter=true&width=700&lines=Software+Engineering+Intern;Spring+Boot+%7C+Microservices+%7C+OAuth2+%7C+API+Security;Always+Learning+New+Thingss" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4483BE&center=true&vCenter=true&width=750&lines=Software+Engineering+Intern;Building+Secure+Backend+Systems;Spring+Boot+%7C+Microservices+%7C+OAuth2;API+Security+%7C+Encryption+%7C+REST+APIs;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 ---

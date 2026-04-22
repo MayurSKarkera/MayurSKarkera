@@ -46,8 +46,8 @@ A passionate Software Engineer specializing in building secure, scalable backend
 
 - Built **secure microservices** using Spring Boot  
 - Implemented **OAuth2 authentication & authorization flows**  
-- Developed and tested **REST APIs using Postman**  
-- Applied **AES encryption/decryption** for secure data handling  
+- Worked on PL/SQL procedures, queries and table operations for backend data handling
+-  Designed and modified **database schemas**
 - Debugged and handled **real-world API errors**  
 
 ---
@@ -71,7 +71,7 @@ A passionate Software Engineer specializing in building secure, scalable backend
 ### 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,mysql,postgresql,git,github,vscode,postman,spring,docker,linux" />
+<img src="https://skillicons.dev/icons?i=java,python,mysql,postgresql,git,github,vscode,postman,spring" />
 </p>
 
 ---

@@ -62,13 +62,6 @@ A Software Engineer focused on building secure, scalable backend systems using S
   - Implemented OAuth2 authorization and protected REST APIs  
 - 🔗 GitHub: https://github.com/MayurSKarkera/Oauth2
     
-### 🔐 API Demo
-### 🔑 Step 1: Generate Access Token
-<img src="https://raw.githubusercontent.com/MayurSKarkera/Oauth2/main/screenshots/1-token-generation.png" width="700"/>
-
-### 📡 Step 2: Access Protected API
-<img src="https://raw.githubusercontent.com/MayurSKarkera/Oauth2/main/screenshots/api-response.png" width="700"/>
-
 🔹 **CRUD API System**  
 - Developed layered backend (Controller, Service, Repository)  
 - Integrated database with validations and constraints  

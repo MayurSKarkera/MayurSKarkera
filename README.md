@@ -44,10 +44,10 @@ A passionate Software Engineer specializing in building secure, scalable backend
 
 **Software Engineering Intern**
 
-- Built **secure microservices** using Spring Boot  
+- Built **secure microservices using Spring Boot**  
 - Implemented **OAuth2 authentication & authorization flows**  
-- Worked on PL/SQL procedures, queries and table operations for backend data handling
--  Designed and modified **database schemas**
+- Worked on **PL/SQL procedures, queries, and backend data handling**  
+- Designed and modified **database schemas**  
 - Debugged and handled **real-world API errors**  
 
 ---
@@ -71,7 +71,7 @@ A passionate Software Engineer specializing in building secure, scalable backend
 ### 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,mysql,postgresql,git,github,vscode,postman,spring" />
+<img src="https://skillicons.dev/icons?i=java,python,mysql,postgresql,git,github,vscode,postman,spring,linux" />
 </p>
 
 ---
